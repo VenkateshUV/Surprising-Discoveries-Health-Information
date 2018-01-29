@@ -6,7 +6,7 @@ sys.setdefaultencoding("utf-8")
 # Loading word2vec
 ######################
 
-from gensim.models import word2vec
+from gensim.models import word2vec 
 import gensim
 # Change this to your own path.
 pathToBinVectors = '/Users/Nikhil/Downloads/wikipedia-pubmed-and-PMC-w2v.bin'
